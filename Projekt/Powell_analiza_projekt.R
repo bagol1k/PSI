@@ -1,3 +1,9 @@
+knitr::opts_chunk$set( #żeby nie bylo warningow
+  message = FALSE,
+  warning = FALSE
+)
+
+
 #' # ANALIZA TEXT MINING
 
 
